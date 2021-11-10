@@ -12,3 +12,4 @@ And create a website with React that:
 - displays the content in cards
 - you can use React Bootstrap:
 https://react-bootstrap.github.io/
+- try to use components for the items
