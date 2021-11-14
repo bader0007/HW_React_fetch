@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Form(props) {
+ function Form(props) {
     return (
         <div className="container">
             <form className="my-5"  onSubmit={props.getData} >

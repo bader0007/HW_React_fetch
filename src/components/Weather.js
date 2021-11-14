@@ -1,7 +1,7 @@
 import React from 'react'
 // import weatherIcon from '../images/weather.png'
 
-export default function Weather(props) {
+function Weather(props) {
     const {city,country,temp,temp_max,temp_min,description,icon} = props.data;
     return (
         <div className="container">

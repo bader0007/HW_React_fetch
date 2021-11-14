@@ -9,7 +9,7 @@ import Error from './components/Error';
 
 const API_KEY = "3f5a8d36d96c810dabf652d54a0d110f"
 
-export default class App extends Component{
+class App extends Component{
 
 
   state = {
